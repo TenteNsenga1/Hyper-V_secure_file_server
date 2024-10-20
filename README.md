@@ -89,9 +89,20 @@ This is a simple file server that allows users to upload, download, and manage f
        - ![image](https://github.com/user-attachments/assets/2cbc0d4e-28e7-45ed-a9b4-452c46762586)
 * share folders
   - Permissions: everyone full control
-    - ![image](https://github.com/user-attachments/assets/df692d1f-6d12-4365-91a3-b83de32e6da6)
-    - ![image](https://github.com/user-attachments/assets/2061cf27-66c6-44d6-8a20-b96022d1adc0)
-    - ![image](https://github.com/user-attachments/assets/1254887e-95cb-4f26-8f39-8adbd8e795cd)
+  - Share Names
+    - E:\Company: Office
+      - ![image](https://github.com/user-attachments/assets/df692d1f-6d12-4365-91a3-b83de32e6da6)
+      - ![image](https://github.com/user-attachments/assets/0e6b5cda-08c0-4d68-9140-f2459698a25d)
+      - ![image](https://github.com/user-attachments/assets/1254887e-95cb-4f26-8f39-8adbd8e795cd)
+      - ![image](https://github.com/user-attachments/assets/dc236afb-74fc-430d-803f-a1531e863613)
+      - ![image](https://github.com/user-attachments/assets/05d6244d-43ee-4105-9956-2827674c5c7c)
+      - ![image](https://github.com/user-attachments/assets/d594489b-910a-4d95-bea1-3c81eea1b0a7)
+      - ![image](https://github.com/user-attachments/assets/816fa734-9c25-4a1b-9ce4-fad65792f244)
+
+
+
+
+
 
 
 
