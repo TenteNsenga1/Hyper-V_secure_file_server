@@ -88,6 +88,15 @@ This is a simple file server that allows users to upload, download, and manage f
        - ![image](https://github.com/user-attachments/assets/cb8347bc-66c5-45f4-b008-7ebb7ed99aaa)
        - ![image](https://github.com/user-attachments/assets/2cbc0d4e-28e7-45ed-a9b4-452c46762586)
 * share folders
+  - Permissions: everyone full control
+    - ![image](https://github.com/user-attachments/assets/df692d1f-6d12-4365-91a3-b83de32e6da6)
+    - ![image](https://github.com/user-attachments/assets/2061cf27-66c6-44d6-8a20-b96022d1adc0)
+    - ![image](https://github.com/user-attachments/assets/1254887e-95cb-4f26-8f39-8adbd8e795cd)
+
+
+
+
+ 
 
 
 
