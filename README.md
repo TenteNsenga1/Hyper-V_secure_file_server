@@ -71,6 +71,10 @@ This is a simple file server that allows users to upload, download, and manage f
        - ![image](https://github.com/user-attachments/assets/9f185210-09a8-4258-9aaf-e8bca14386ab)
        - E:\Marketing: give the Marketing group Modify permissions.
        - ![image](https://github.com/user-attachments/assets/340b4a30-69f4-4d1f-87d3-f685b90813f1)
+       - ![image](https://github.com/user-attachments/assets/8fb8dc78-7348-41c1-bde6-2ec3327b541d)
+       - ![image](https://github.com/user-attachments/assets/72ad5cac-bfd5-49f2-a490-946f4d304b9f)
+ * Create 2 folders in E:\Home\ (user1, user2)
+
 
 
 
