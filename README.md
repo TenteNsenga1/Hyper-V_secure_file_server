@@ -33,10 +33,20 @@ This is a simple file server that allows users to upload, download, and manage f
   * ![image](https://github.com/user-attachments/assets/b4293fda-e59e-4347-8eb5-dc796314d241)
   * ![image](https://github.com/user-attachments/assets/8330851d-27e4-465b-831a-7f51d2780203)
      - Edit the NTFS permissions:
-     - ![image](https://github.com/user-attachments/assets/54b60934-96a4-4679-bc95-86748ebe37f6)
-     - ![image](https://github.com/user-attachments/assets/4458e072-cb79-4533-abd8-b6c93ec32c05)
-     - ![image](https://github.com/user-attachments/assets/4f973490-2b57-4475-929d-f1540e98937d)
-     - ![image](https://github.com/user-attachments/assets/0bf6d9f7-8d8c-4ea6-b736-b74b2a93e77d)
+       - giving my user account - Full control 
+       - ![image](https://github.com/user-attachments/assets/54b60934-96a4-4679-bc95-86748ebe37f6)
+       - ![image](https://github.com/user-attachments/assets/4458e072-cb79-4533-abd8-b6c93ec32c05)
+       - ![image](https://github.com/user-attachments/assets/4f973490-2b57-4475-929d-f1540e98937d)
+       - ![image](https://github.com/user-attachments/assets/0bf6d9f7-8d8c-4ea6-b736-b74b2a93e77d)
+       - ![image](https://github.com/user-attachments/assets/3b22d58c-b9d4-4fbc-a9fd-0c3c6f457734)
+       - ![image](https://github.com/user-attachments/assets/cdedef52-48ad-4654-baec-c7b562bd3774)
+       - Giving the admin group - Full control
+       - ![image](https://github.com/user-attachments/assets/e72012d7-1b21-4e59-aea3-be2e9f61a9bb)
+     - Giving full control to user1 & user2 too
+     - ![image](https://github.com/user-attachments/assets/7515e9c2-1532-432e-aa96-bb7ce1f4a663)
+
+
+
 
 
 
