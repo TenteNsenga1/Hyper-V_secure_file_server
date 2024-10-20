@@ -26,6 +26,18 @@ This is a simple file server that allows users to upload, download, and manage f
   * ![image](https://github.com/user-attachments/assets/a88d0858-8a84-4727-ba43-735614ee7a93)
   * ![image](https://github.com/user-attachments/assets/77720c6c-202d-485f-9c7b-7c1054349479)
   * ![image](https://github.com/user-attachments/assets/6b5aa368-ab1d-414d-8d71-d65279ee1170)
+  * ![image](https://github.com/user-attachments/assets/072168c5-7557-4952-82e0-a5a8bb02e9e7)
+  * ![image](https://github.com/user-attachments/assets/d50df01b-67cf-4871-b3f2-387ff96e1dbf)
+  * ![image](https://github.com/user-attachments/assets/c8f48ef1-8738-4d69-97c7-950798d760be)
+  * ![image](https://github.com/user-attachments/assets/b8f7eafb-d136-4cdb-90af-34e6a3e9c4d9)
+  * ![image](https://github.com/user-attachments/assets/b4293fda-e59e-4347-8eb5-dc796314d241)
+  * ![image](https://github.com/user-attachments/assets/8330851d-27e4-465b-831a-7f51d2780203)
+
+
+
+
+
+
 
 
 
