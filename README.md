@@ -68,6 +68,12 @@ This is a simple file server that allows users to upload, download, and manage f
        - E:\Finance: give the Finance group Modify permissions.
        - ![image](https://github.com/user-attachments/assets/b68772d3-915d-40b0-9ea6-a2b7c69fdeb9)
        - ![image](https://github.com/user-attachments/assets/4c0070b0-5534-4014-94c0-8e7b7a2bd8bb)
+       - ![image](https://github.com/user-attachments/assets/9f185210-09a8-4258-9aaf-e8bca14386ab)
+       - E:\Marketing: give the Marketing group Modify permissions.
+       - ![image](https://github.com/user-attachments/assets/340b4a30-69f4-4d1f-87d3-f685b90813f1)
+
+
+
 
 
 
