@@ -133,7 +133,9 @@ This is a simple file server that allows users to upload, download, and manage f
           - ![image](https://github.com/user-attachments/assets/c6844c11-bcba-4f34-b4c4-7bf739d9e98b)
           - Let's go back and try again
           - ![image](https://github.com/user-attachments/assets/3d31d574-a30f-4486-b02f-37425b402122)
-        - 
+        - Work Folder: net use w: \\srv\Finance /persistent:yes
+          - ![image](https://github.com/user-attachments/assets/7e19026e-99b2-4bf2-96ec-9807be81869c)
+   
 
 
 
