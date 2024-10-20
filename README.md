@@ -59,8 +59,9 @@ This is a simple file server that allows users to upload, download, and manage f
          ![image](https://github.com/user-attachments/assets/436d6c7e-8cb5-476d-aca6-c0b3d72aed6a)
          ![image](https://github.com/user-attachments/assets/056ae7ad-8270-44ee-937b-486fcfabdc58)
          ![image](https://github.com/user-attachments/assets/1f208545-8d4e-4b2e-9f17-74a60ce57a57)
+         <br>
          now let's go back and see or give the read & execute to the users for 'company' folder
-         ![image](https://github.com/user-attachments/assets/607d4a71-907d-4133-a73c-4d413fbe2ba3)
+       - ![image](https://github.com/user-attachments/assets/607d4a71-907d-4133-a73c-4d413fbe2ba3)
 
 
 
