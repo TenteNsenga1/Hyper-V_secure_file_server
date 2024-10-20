@@ -77,12 +77,13 @@ This is a simple file server that allows users to upload, download, and manage f
  * ![image](https://github.com/user-attachments/assets/76d487ca-7b3f-4b65-af80-059a2d1f050f)
  * ![image](https://github.com/user-attachments/assets/7c492f05-2057-4a07-b3e3-976a7db3b714)
    - Edit the NTFS folder permissions
-   - ![image](https://github.com/user-attachments/assets/0cf69574-1d8d-45df-8ea7-285656402405)
-   - ![image](https://github.com/user-attachments/assets/c5a880d2-40de-4934-870a-0892eb48d662)
-   - ![image](https://github.com/user-attachments/assets/4e9f3be8-bf2f-47ab-9d27-50db2699cb43)
-   - ![image](https://github.com/user-attachments/assets/a952d301-822b-4fc5-9541-00609533da5b)
-   - ![image](https://github.com/user-attachments/assets/70759d90-e5e6-4d76-8016-ac5816a198ea)
-   - ![image](https://github.com/user-attachments/assets/cfa998a6-4bcd-41e7-82a6-26191d77aeaf)
+   - E:\Home\user1: give user1 Full Control
+     - ![image](https://github.com/user-attachments/assets/0cf69574-1d8d-45df-8ea7-285656402405)
+     - ![image](https://github.com/user-attachments/assets/c5a880d2-40de-4934-870a-0892eb48d662)
+     - ![image](https://github.com/user-attachments/assets/4e9f3be8-bf2f-47ab-9d27-50db2699cb43)
+     - ![image](https://github.com/user-attachments/assets/a952d301-822b-4fc5-9541-00609533da5b)
+     - ![image](https://github.com/user-attachments/assets/70759d90-e5e6-4d76-8016-ac5816a198ea)
+     - ![image](https://github.com/user-attachments/assets/cfa998a6-4bcd-41e7-82a6-26191d77aeaf)
 
 
 
