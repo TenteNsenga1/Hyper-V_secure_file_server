@@ -45,6 +45,14 @@ This is a simple file server that allows users to upload, download, and manage f
        - Giving full control to user1 & user2 too
        - ![image](https://github.com/user-attachments/assets/7515e9c2-1532-432e-aa96-bb7ce1f4a663)
   * Create 4 folders in the root of E:\ (HOME, Company, Finance, and Marketing)
+  * ![image](https://github.com/user-attachments/assets/3f71b4bd-0866-45e4-a64d-2c8eaf9b01a5)
+  * ![image](https://github.com/user-attachments/assets/9de71599-b0ee-45d5-9a78-28ca4205349e)
+  * ![image](https://github.com/user-attachments/assets/eab9caa5-f7f3-4017-ae5c-a9ec7eb097ef)
+  * ![image](https://github.com/user-attachments/assets/1774262e-8d09-4aeb-9110-b53f7d881c76)
+
+
+
+
 
 
 
