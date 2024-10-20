@@ -120,36 +120,8 @@ This is a simple file server that allows users to upload, download, and manage f
         - ![image](https://github.com/user-attachments/assets/97935a35-1ee8-49b9-bd85-488f6a5f093c)
 
 # Login to both PCs and Map Network Drives
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
+  * 1. On PC-01, mapping 3 drives using the folowing commands:
+        - Home Folder: net use h: \\srv\Home$\user1 /persistent:yes
 
 
 
