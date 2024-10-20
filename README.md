@@ -33,6 +33,12 @@ This is a simple file server that allows users to upload, download, and manage f
   * ![image](https://github.com/user-attachments/assets/b4293fda-e59e-4347-8eb5-dc796314d241)
   * ![image](https://github.com/user-attachments/assets/8330851d-27e4-465b-831a-7f51d2780203)
      - Edit the NTFS permissions:
+     - ![image](https://github.com/user-attachments/assets/54b60934-96a4-4679-bc95-86748ebe37f6)
+     - ![image](https://github.com/user-attachments/assets/4458e072-cb79-4533-abd8-b6c93ec32c05)
+     - ![image](https://github.com/user-attachments/assets/4f973490-2b57-4475-929d-f1540e98937d)
+
+
+
 
 
 
