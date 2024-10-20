@@ -137,7 +137,10 @@ This is a simple file server that allows users to upload, download, and manage f
           - ![image](https://github.com/user-attachments/assets/7e19026e-99b2-4bf2-96ec-9807be81869c)
         - ![image](https://github.com/user-attachments/assets/c32872bb-b5d1-443c-9737-5416c587c06b)
   * 2. On PC-02, mapping 3 drives using the folowing commands:
-    - ![image](https://github.com/user-attachments/assets/9e5bb39b-97fb-4292-8fc9-97537196cd0c)
+        - ![image](https://github.com/user-attachments/assets/9e5bb39b-97fb-4292-8fc9-97537196cd0c)
+        - ![image](https://github.com/user-attachments/assets/76dc899c-66b1-4fe1-bbf9-666858ee6e63)
+
+      
 
    
 
