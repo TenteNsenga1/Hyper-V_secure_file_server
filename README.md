@@ -42,8 +42,8 @@ This is a simple file server that allows users to upload, download, and manage f
        - ![image](https://github.com/user-attachments/assets/cdedef52-48ad-4654-baec-c7b562bd3774)
        - Giving the admin group - Full control
        - ![image](https://github.com/user-attachments/assets/e72012d7-1b21-4e59-aea3-be2e9f61a9bb)
-     - Giving full control to user1 & user2 too
-     - ![image](https://github.com/user-attachments/assets/7515e9c2-1532-432e-aa96-bb7ce1f4a663)
+       - Giving full control to user1 & user2 too
+       - ![image](https://github.com/user-attachments/assets/7515e9c2-1532-432e-aa96-bb7ce1f4a663)
 
 
 
