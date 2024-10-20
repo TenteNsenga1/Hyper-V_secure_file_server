@@ -1,7 +1,7 @@
 # Hyper-V_secure_file_server
 This is a simple file server that allows users to upload, download, and manage files over a network. It supports basic authentication and organizes files into directories for easy access. Ideal for personal projects or learning about server management.
 
-#Login to SRV 
+# Login to SRV 
   # 1. create users
     * create a user account for myself
       * add users to administrators group
@@ -119,7 +119,7 @@ This is a simple file server that allows users to upload, download, and manage f
         - ![image](https://github.com/user-attachments/assets/cb65eeeb-f69b-4d08-9809-303f38a0db05)
         - ![image](https://github.com/user-attachments/assets/97935a35-1ee8-49b9-bd85-488f6a5f093c)
 
-Login to both PCs and Map Network Drives
+# Login to both PCs and Map Network Drives
 
 
 
