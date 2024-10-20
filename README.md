@@ -74,6 +74,11 @@ This is a simple file server that allows users to upload, download, and manage f
        - ![image](https://github.com/user-attachments/assets/8fb8dc78-7348-41c1-bde6-2ec3327b541d)
        - ![image](https://github.com/user-attachments/assets/72ad5cac-bfd5-49f2-a490-946f4d304b9f)
  * Create 2 folders in E:\Home\ (user1, user2)
+ * ![image](https://github.com/user-attachments/assets/76d487ca-7b3f-4b65-af80-059a2d1f050f)
+ * ![image](https://github.com/user-attachments/assets/7c492f05-2057-4a07-b3e3-976a7db3b714)
+   - Edit the NTFS folder permissions  
+
+
 
 
 
