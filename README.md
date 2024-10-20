@@ -49,6 +49,17 @@ This is a simple file server that allows users to upload, download, and manage f
   * ![image](https://github.com/user-attachments/assets/9de71599-b0ee-45d5-9a78-28ca4205349e)
   * ![image](https://github.com/user-attachments/assets/eab9caa5-f7f3-4017-ae5c-a9ec7eb097ef)
   * ![image](https://github.com/user-attachments/assets/1774262e-8d09-4aeb-9110-b53f7d881c76)
+     - Edit the NTFS folder permissions:
+       - E:\Company: give the Users group Read and Execute permissions.
+       - ![image](https://github.com/user-attachments/assets/af2b63ae-be35-4ac2-94ad-379fd5e4fd52)
+       - ![image](https://github.com/user-attachments/assets/3ea736d0-f58b-4799-8821-a35de336790a)
+       - ![image](https://github.com/user-attachments/assets/685a1a31-9de9-4ba7-b547-1501ea50b151)
+         as you can see the users already have read &execute on top of having full control, why? it's because they had full control permission on the E drive itself. now I will remove the those persmission of users on the E\ drive an
+
+
+
+
+
 
 
 
