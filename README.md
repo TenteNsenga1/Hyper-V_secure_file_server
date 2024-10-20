@@ -122,8 +122,24 @@ This is a simple file server that allows users to upload, download, and manage f
 # Login to both PCs and Map Network Drives
   * 1. On PC-01, mapping 3 drives using the folowing commands:
         - Home Folder: net use h: \\srv\Home$\user1 /persistent:yes
-        - ![image](https://github.com/user-attachments/assets/7e2b98a5-c1d1-482d-b7bb-65dbe251c0c5)
-        - ![image](https://github.com/user-attachments/assets/7b264425-27c2-44e4-86c2-8c7da5d185c3)
+          - ![image](https://github.com/user-attachments/assets/7e2b98a5-c1d1-482d-b7bb-65dbe251c0c5)
+          - ![image](https://github.com/user-attachments/assets/7b264425-27c2-44e4-86c2-8c7da5d185c3)
+          - ![image](https://github.com/user-attachments/assets/0fcac7a4-c4ce-44c6-8ed8-244dc07cac4c)
+        - Home Folder: net use o: \\srv\Office /persistent:yes
+          - ![image](https://github.com/user-attachments/assets/11c700af-6412-45aa-b945-7c03a2491641)
+          - error made because office was't added in the company folder permission
+          - ![image](https://github.com/user-attachments/assets/03897811-ec90-4ecf-83bc-61830738d866)
+          - ![image](https://github.com/user-attachments/assets/25271fdb-51db-4972-b609-64dc209dc44d)
+          - ![image](https://github.com/user-attachments/assets/c6844c11-bcba-4f34-b4c4-7bf739d9e98b)
+          - Let's go back and try again
+          - ![image](https://github.com/user-attachments/assets/3d31d574-a30f-4486-b02f-37425b402122)
+        - 
+
+
+
+
+
+
 
 
 
