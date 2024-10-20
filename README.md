@@ -17,6 +17,23 @@ This is a simple file server that allows users to upload, download, and manage f
   * ![image](https://github.com/user-attachments/assets/e78a1175-b3d0-49d8-b2e0-a1be16c54598)
   * ![image](https://github.com/user-attachments/assets/7a77f6f6-4ff0-421f-8dc9-8b207cf2d696)
 
+# 3. create groups
+  * create an E:\ Drive (2-4GB)
+  * ![image](https://github.com/user-attachments/assets/cd9876c7-78a9-4939-a6a5-e47e1aa7391d)
+  * ![image](https://github.com/user-attachments/assets/565968eb-8fa6-44c5-9028-1ddbfc502830)
+  * ![image](https://github.com/user-attachments/assets/a7612bc5-5794-41f3-99be-4f24e60fcd01)
+  * ![image](https://github.com/user-attachments/assets/67794018-288a-4863-b6f1-0842d30da37e)
+  * ![image](https://github.com/user-attachments/assets/a88d0858-8a84-4727-ba43-735614ee7a93)
+  * ![image](https://github.com/user-attachments/assets/77720c6c-202d-485f-9c7b-7c1054349479)
+  * ![image](https://github.com/user-attachments/assets/6b5aa368-ab1d-414d-8d71-d65279ee1170)
+
+
+
+
+
+
+
+
 
 
 
