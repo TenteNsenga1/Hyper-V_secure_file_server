@@ -64,7 +64,12 @@ This is a simple file server that allows users to upload, download, and manage f
          now let's go back and see or give the read & execute to the users for 'company' folder
          <br>
          ![image](https://github.com/user-attachments/assets/607d4a71-907d-4133-a73c-4d413fbe2ba3)
+         ![image](https://github.com/user-attachments/assets/61d882d7-fe4f-49d0-ac97-87b31265a855)
        - E:\Finance: give the Finance group Modify permissions.
+       - ![image](https://github.com/user-attachments/assets/b68772d3-915d-40b0-9ea6-a2b7c69fdeb9)
+       - ![image](https://github.com/user-attachments/assets/4c0070b0-5534-4014-94c0-8e7b7a2bd8bb)
+
+
 
 
 
