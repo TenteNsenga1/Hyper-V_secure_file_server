@@ -103,6 +103,32 @@ This is a simple file server that allows users to upload, download, and manage f
       - ![image](https://github.com/user-attachments/assets/044fe693-eb11-4109-bb4a-d9bf9c419f8d)
     - E:\Marketing: Marketing
       - ![image](https://github.com/user-attachments/assets/79e5b6a4-f948-4b6b-ac21-f99cb7d90640)
+      - ![image](https://github.com/user-attachments/assets/2631d679-3e40-4921-9363-5d68b2a786d6)
+      - ![image](https://github.com/user-attachments/assets/effc9e3b-79ca-4625-9cbf-dd642db33f3f)
+      - ![image](https://github.com/user-attachments/assets/aca36f9b-7558-4c12-8d07-ef1a3da44d15)
+      - ![image](https://github.com/user-attachments/assets/44f3b9db-7893-4c2a-b54e-99278c3c3ba1)
+    - E:\Home: Home
+      - ![image](https://github.com/user-attachments/assets/3cc838d4-43a0-462d-acfd-c4523d04b90b)
+      - ![image](https://github.com/user-attachments/assets/74c51732-b1b7-414c-a7ec-0e22f56a3759)
+      - ![image](https://github.com/user-attachments/assets/067742f2-5b21-4687-858e-b0d563381c0e)
+      - ![image](https://github.com/user-attachments/assets/83c663ad-5326-4816-b2d7-90f4e1175806)
+      - ![image](https://github.com/user-attachments/assets/078cbf79-5851-4820-880f-ebc3effdec67)
+      - ![image](https://github.com/user-attachments/assets/6a4653f6-cd5f-4e2a-bb7b-dcba41c06c5d)
+      - ![image](https://github.com/user-attachments/assets/12977a9d-d8c4-4916-ad94-5c4919765686)
+      - ![image](https://github.com/user-attachments/assets/cb65eeeb-f69b-4d08-9809-303f38a0db05)
+      - ![image](https://github.com/user-attachments/assets/97935a35-1ee8-49b9-bd85-488f6a5f093c)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
